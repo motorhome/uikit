@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+    <defs>
+        <style>
+            .cls-2,.cls-3{fill:#ffe845;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-3{fill:none}
+        </style>
+    </defs>
+    <g id="그룹_33" transform="translate(3.306 4.389)">
+        <path id="아이콘-홈-투명배경" fill="rgba(255,255,255,0)" d="M0 0H27V27H0z" transform="translate(-3.306 -4.389)"/>
+        <path id="선_35" d="M0 6.106L9.877 0" class="cls-2" transform="translate(0 1.136)"/>
+        <path id="선_36" d="M9.877 6.106L0 0" class="cls-2" transform="translate(9.877 1.136)"/>
+        <path id="선_37" d="M0 0L0 6.402" class="cls-3" transform="translate(4.118 8.628)"/>
+        <path id="선_38" d="M0 0L0 6.402" class="cls-3" transform="translate(15.64 8.628)"/>
+        <path id="선_39" d="M0 0L11.522 0" class="cls-3" transform="translate(4.118 15.031)"/>
+        <path id="선_40" d="M0 4.189L0 0" class="cls-3" transform="translate(15.032)"/>
+    </g>
+</svg>

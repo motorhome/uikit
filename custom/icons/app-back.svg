@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.93" height="13.631" viewBox="0 0 15.93 13.631">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="뒤로가기_아이콘" transform="translate(-10447.094 -842.275)">
+        <path id="선_125" d="M0 0L6.762 5.41" class="cls-1" transform="translate(10448.5 849.09)"/>
+        <path id="선_126" d="M0 5.41L6.762 0" class="cls-1" transform="translate(10448.5 843.68)"/>
+        <path id="선_127" d="M0 0L13.524 0" class="cls-1" transform="translate(10448.5 849.09)"/>
+    </g>
+</svg>
