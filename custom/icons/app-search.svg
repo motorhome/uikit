@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:currentcolor;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="검색_아이콘" transform="translate(6.706 4.503)">
+        <path id="아이콘-홈-투명배경" fill="rgba(255,255,255,0)" d="M0 0H27V27H0z" transform="translate(-6.706 -4.503)"/>
+        <circle id="타원_9" cx="6.654" cy="6.654" r="6.654" class="cls-2" transform="translate(.828 -.573)"/>
+        <path id="선_41" d="M2.629 0L0 3.341" class="cls-2" transform="translate(-.486 13.308)"/>
+    </g>
+</svg>
