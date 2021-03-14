@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="댓글_아이콘" width="18" height="18" viewBox="0 0 18 18">
     <defs>
         <style>
-            .cls-1{fill:none;stroke:currentcolor;stroke-linecap:round;stroke-linejoin:round}
+            .icon-comment-stroke{fill:none;stroke:currentcolor;stroke-linecap:round;stroke-linejoin:round}
         </style>
     </defs>
-    <path id="패스_726" d="M-1403.347 48.867h-4.389a5.62 5.62 0 0 1-5.6-5.6 5.619 5.619 0 0 1 5.6-5.6h4.389a5.62 5.62 0 0 1 5.6 5.6 5.616 5.616 0 0 1-2.833 4.866c-.383.22.255 2.049-.178 2.173-.488.138-2.055-1.439-2.589-1.439z" class="cls-1" transform="translate(1414.34 -35)"/>
-    <path id="선_134" d="M0 0L8.826 0" class="cls-1" transform="translate(4.269 5.881)"/>
-    <path id="선_135" d="M0 0L8.826 0" class="cls-1" transform="translate(4.269 7.983)"/>
-    <path id="선_136" d="M0 0L4.133 0" class="cls-1" transform="translate(4.269 10.084)"/>
+    <path id="패스_726" d="M-1403.347 48.867h-4.389a5.62 5.62 0 0 1-5.6-5.6 5.619 5.619 0 0 1 5.6-5.6h4.389a5.62 5.62 0 0 1 5.6 5.6 5.616 5.616 0 0 1-2.833 4.866c-.383.22.255 2.049-.178 2.173-.488.138-2.055-1.439-2.589-1.439z" class="icon-comment-stroke" transform="translate(1414.34 -35)"/>
+    <path id="선_134" d="M0 0L8.826 0" class="icon-comment-stroke" transform="translate(4.269 5.881)"/>
+    <path id="선_135" d="M0 0L8.826 0" class="icon-comment-stroke" transform="translate(4.269 7.983)"/>
+    <path id="선_136" d="M0 0L4.133 0" class="icon-comment-stroke" transform="translate(4.269 10.084)"/>
 </svg>
