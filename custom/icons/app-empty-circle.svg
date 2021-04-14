@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <g stroke="#fff">
+        <g fill="none" transform="translate(-39 -676) translate(39 676)">
+            <rect width="28" height="28" stroke="none" rx="14"/>
+            <rect width="27" height="27" x=".5" y=".5" rx="13.5"/>
+        </g>
+    </g>
+</svg>
